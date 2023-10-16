@@ -1,0 +1,107 @@
+body {
+    background-color: black;
+    background-image: url(images/Coffee_beans2.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.wrapper {
+    /* background-color: blueviolet; */
+    width: 1024px;
+    min-height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav {
+    /* background-color: blueviolet; */
+    min-height: 45px;
+    text-align: center;
+    padding-top: 16px;
+}
+
+header {
+    /* background-color: blue; */
+    min-height: 45px;
+    text-align: center;
+    padding-top: 16px;
+}
+
+.logoImage {
+    height: 120px;
+
+}
+
+nav a {
+    text-decoration: none;
+    padding-right: 10px;
+    padding-left: 10px;
+    color: darkgrey;
+    font-family: Georgia, 'Times New Roman' times, serif
+}
+
+/* style the main  */
+main {
+    /* background-color: darkorange; */
+    min-height: 375px;
+    text-align: center;
+    padding-right: 16sspx;
+    padding-left: 16px;
+}
+
+main h1 {
+    font-size: 85px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+    text-shadow: 2px 2px 2px black;
+}
+
+main h2 {
+    font-size: 85px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: beige;
+    text-shadow: 2px 2px 2px white;
+}
+
+main p {
+    font: size 85px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-shadow: 1px 1px 1px navy;
+}
+
+.map {
+    min-height: 120px;
+    text-align: center;
+
+}
+
+
+footer {
+    background-color: aliceblue;
+    min-height: 60px;
+}
+
+
+
+
+footer p {
+    text-align: center;
+    color: darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 16px;
+}
+
+.ContactText {
+    color: rgb(243, 243, 235)
+}
+
+.ContactText {
+    text-align: center;
+    font: size 5000px;
+}
+
+.Contactimage {
+    width: 50px;
+}
